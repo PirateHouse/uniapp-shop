@@ -1,0 +1,19 @@
+
+.cart-bottom.data-v-1987fd04{
+	position:fixed;
+	right:0;
+	left:0;
+	bottom:0;
+	height:100rpx;
+	background-color:#eee;
+}
+.toBuy.data-v-1987fd04{
+	height:100rpx;
+	width: 100px;
+	line-height: 100rpx;
+	text-align: center;
+	background-color:#ff5777;
+	color:#fff;
+}
+
+

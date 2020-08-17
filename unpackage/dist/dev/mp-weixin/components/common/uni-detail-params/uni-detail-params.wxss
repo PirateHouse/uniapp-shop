@@ -1,0 +1,27 @@
+
+.params-item.data-v-7e6e4712{
+	padding-bottom: 20rpx;
+	border-bottom: 8rpx solid #CCCCCC;
+}
+.tableItem.data-v-7e6e4712{
+	margin:0 50rpx;
+	padding:0 30rpx;
+	height:80rpx;
+	line-height: 80rpx;
+	border-bottom: 1rpx solid #ccc;
+}
+.item-set.data-v-7e6e4712{
+	margin:0 50rpx;
+	padding:0 30rpx;
+	height:80rpx;
+	border-bottom: 1rpx solid #ccc;
+}
+.item-key.data-v-7e6e4712{
+	width:200rpx;
+	margin-right:10rpx;
+}
+.item-value.data-v-7e6e4712{	
+	width:70%;
+	color:#ff5777;
+}
+

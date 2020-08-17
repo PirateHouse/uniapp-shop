@@ -1,0 +1,20 @@
+
+.cart-item.data-v-6748b064{
+	margin-top:20rpx;
+	border-bottom: 1rpx solid #eee;
+}
+.cart-image.data-v-6748b064{
+	width: 180rpx;
+	height:240rpx;
+	border-radius: 10rpx;
+}
+.item-title.data-v-6748b064{
+	height:200rpx;
+	padding:20rpx;
+	font-size:20rpx;
+}
+.item-count.data-v-6748b064{
+	padding:20rpx;
+	font-size:20rpx;
+}
+

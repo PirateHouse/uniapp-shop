@@ -1,0 +1,87 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				
+			}
+		}
+	    ,{
+            "path" : "pages/cart/cart",
+            "style" : {
+				"navigationBarTitleText": "购物车"
+			}
+        }
+        ,{
+            "path" : "pages/category/category",
+            "style" : {
+				"navigationBarTitleText": "商品分类"
+			}
+        },
+		{
+		    "path" : "pages/profile/profile",
+		    "style" : {
+				"navigationBarTitleText": "我的信息"
+			}
+		}
+        ,{
+            "path" : "pages/webViews/webViews",
+            "style" : {
+				"app-plus":{
+					"titleNView":false
+				}
+			}
+        }
+        ,{
+            "path" : "pages/detail/detail",
+            "style" : {
+				"app-plus":{
+					"titleNView":false
+				}
+			}
+        }
+        ,{
+            "path" : "pages/login/login",
+            "style" : {}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "蘑菇街",
+		"navigationBarBackgroundColor": "#ff5777",
+		"backgroundColor": "#ff5777"
+	},
+	"tabBar":{
+		"color":"#333333",
+		"selectedColor":"#ff5777",
+		"list":[
+			{"pagePath":"pages/index/index",
+			 "iconPath":"static/img/tabbar/home.png",
+			 "selectedIconPath":"static/img/tabbar/home_active.png",
+			 "text":"首页"
+			 },
+			 {"pagePath":"pages/category/category",
+			  "iconPath":"static/img/tabbar/category.png",
+			  "selectedIconPath":"static/img/tabbar/category_active.png",
+			  "text":"分类"
+			  },
+			  {"pagePath":"pages/cart/cart",
+			   "iconPath":"static/img/tabbar/cart.png",
+			   "selectedIconPath":"static/img/tabbar/cart_active.png",
+			   "text":"购物车"
+			   },
+			   {"pagePath":"pages/profile/profile",
+			    "iconPath":"static/img/tabbar/profile.png",
+			    "selectedIconPath":"static/img/tabbar/profile_active.png",
+			    "text":"我的"
+			    }
+		]
+	},
+	"easycom":{
+		 "autoscan": true,
+		 "custom": {
+		     "^uni-(.*)": "@/components/common/uni-$1/uni-$1.vue"
+			 
+		   }
+	}
+}

@@ -1,0 +1,10 @@
+
+.service.data-v-41a1577c{
+	padding:20rpx 0;
+	border-bottom: 5rpx solid #ccc;
+}
+.service-image.data-v-41a1577c{
+	width:20rpx;
+	height:20rpx;
+}
+

@@ -1,0 +1,1 @@
+<view class=" flex  justify-between align-center  text-center nav-bar data-v-194cc640"><view class="left data-v-194cc640"><slot name="left"></slot></view><view class="center data-v-194cc640"><slot name="center"></slot></view><view class="right data-v-194cc640"><slot name="right"></slot></view></view>

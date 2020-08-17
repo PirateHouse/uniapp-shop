@@ -1,0 +1,11 @@
+
+.left-title.data-v-8a0b9874{
+	height:100rpx;
+	line-height: 100rpx;
+	text-align: center;
+}
+.active.data-v-8a0b9874{
+	background-color: #FFFFFF;
+	border-left:1rpx solid #ff5777;
+}
+

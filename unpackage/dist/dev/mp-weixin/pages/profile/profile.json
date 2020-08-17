@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "我的信息",
+  "usingComponents": {
+    "uni-profile-login": "/components/common/uni-profile-login/uni-profile-login",
+    "uni-profile-preferential": "/components/common/uni-profile-preferential/uni-profile-preferential",
+    "uni-profile-bottom": "/components/common/uni-profile-bottom/uni-profile-bottom"
+  }
+}

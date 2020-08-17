@@ -1,0 +1,14 @@
+{
+  "usingComponents": {
+    "uni-detail-nav": "/components/common/uni-detail-nav/uni-detail-nav",
+    "uni-detail-swiper": "/components/common/uni-detail-swiper/uni-detail-swiper",
+    "uni-detail-titles": "/components/common/uni-detail-titles/uni-detail-titles",
+    "uni-detail-services": "/components/common/uni-detail-services/uni-detail-services",
+    "uni-detail-shop-info": "/components/common/uni-detail-shopInfo/uni-detail-shopInfo",
+    "uni-detail-goods-info": "/components/common/uni-detail-goodsInfo/uni-detail-goodsInfo",
+    "uni-detail-params": "/components/common/uni-detail-params/uni-detail-params",
+    "uni-detail-rate": "/components/common/uni-detail-rate/uni-detail-rate",
+    "uni-goods-info": "/components/common/uni-goods-info/uni-goods-info",
+    "uni-detail-bottom": "/components/common/uni-detail-bottom/uni-detail-bottom"
+  }
+}

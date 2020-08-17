@@ -1,0 +1,11 @@
+
+.left-scroll.data-v-682a9774{
+	height:100vh;
+	width:200rpx;
+	background-color: #f6f6f6;
+}
+.right-scroll.data-v-682a9774{
+	height:100vh;
+	width: 70%;
+}
+

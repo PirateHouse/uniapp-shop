@@ -1,0 +1,11 @@
+
+.category-control.data-v-73379a4a{
+	width:30%;
+	height:180rpx;
+	margin-top: 20rpx;
+}
+.categoryImage.data-v-73379a4a{
+	width:120rpx;
+	height:120rpx;
+}
+

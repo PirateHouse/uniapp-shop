@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "uni-goods-item": "/components/common/uni-goods-item/uni-goods-item"
+  },
+  "component": true
+}

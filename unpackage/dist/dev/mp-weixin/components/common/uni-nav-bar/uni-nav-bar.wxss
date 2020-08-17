@@ -1,0 +1,22 @@
+
+.nav-bar.data-v-194cc640{
+		position: fixed;
+		top:0;
+		left:0;
+		right:0;
+		z-index: 9;
+		background-color: #fff;
+}
+.left.data-v-194cc640,.right.data-v-194cc640,.center.data-v-194cc640{
+	height:100rpx;
+	line-height: 100rpx;
+}
+.left.data-v-194cc640,.right.data-v-194cc640{
+	width:120rpx;
+}
+.center.data-v-194cc640{
+	-webkit-box-flex:1;
+	-webkit-flex:1;
+	        flex:1;
+}
+

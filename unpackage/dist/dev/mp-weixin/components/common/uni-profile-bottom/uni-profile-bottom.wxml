@@ -1,0 +1,1 @@
+<view><block wx:for="{{profileBottom}}" wx:for-item="item" wx:for-index="__i0__" wx:key="title"><view class="bottom-info"><image class="bottom-image" src="{{item.img}}" mode></image><text>{{item.title}}</text></view></block></view>

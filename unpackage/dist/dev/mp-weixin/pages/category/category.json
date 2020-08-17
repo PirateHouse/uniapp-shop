@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "商品分类",
+  "usingComponents": {
+    "uni-category-left-list": "/components/common/uni-category-left-list/uni-category-left-list",
+    "uni-category-right-list": "/components/common/uni-category-right-list/uni-category-right-list"
+  }
+}

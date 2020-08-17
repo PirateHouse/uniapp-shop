@@ -1,0 +1,1 @@
+<view class="data-v-a8271ab4"><view data-event-opts="{{[['tap',[['changeChecked',['$event']]]]]}}" class="checked-image data-v-a8271ab4" bindtap="__e"><image hidden="{{!(isChecked)}}" class="showImage data-v-a8271ab4" src="/static/img/common/checked.png"></image></view></view>

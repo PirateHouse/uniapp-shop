@@ -1,0 +1,9 @@
+
+.title-item.data-v-94d90ef4{
+	display: inline-block;
+	width:25%;
+}
+.active.data-v-94d90ef4{
+	color:#ff5777;
+}
+

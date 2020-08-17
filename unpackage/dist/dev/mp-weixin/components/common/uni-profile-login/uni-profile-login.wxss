@@ -1,0 +1,29 @@
+
+.profile-title.data-v-a4cdfe50{
+	height:200rpx;
+	background-color:#FF5777;
+}
+.icon-box.data-v-a4cdfe50{
+	padding-left:50rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.people-icon.data-v-a4cdfe50{
+	 width:80rpx;
+	 height:80rpx;
+	 padding:20rpx;
+	 background-color: #fff;
+	 border-radius: 50%;
+}
+.profile-text.data-v-a4cdfe50{
+	color: #FFFFFF;
+	font-size:30rpx;
+	margin-left:20rpx;
+}
+.profile-right.data-v-a4cdfe50{
+	padding-right: 50rpx;
+	color:#FFFFFF;
+	font-size:60rpx;
+}
+

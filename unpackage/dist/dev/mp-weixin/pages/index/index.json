@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "uni-tab-control": "/components/common/uni-tab-control/uni-tab-control",
+    "uni-home-swiper": "/components/common/uni-home-swiper/uni-home-swiper",
+    "uni-home-weather": "/components/common/uni-home-weather/uni-home-weather",
+    "uni-recommend": "/components/common/uni-recommend/uni-recommend",
+    "uni-goods-info": "/components/common/uni-goods-info/uni-goods-info",
+    "uni-back-top": "/components/common/uni-back-top/uni-back-top"
+  }
+}

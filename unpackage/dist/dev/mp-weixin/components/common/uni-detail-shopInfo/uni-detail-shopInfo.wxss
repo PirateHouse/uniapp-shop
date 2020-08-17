@@ -1,0 +1,37 @@
+
+.shop-info.data-v-24e9d00e{
+	padding:20rpx;
+}
+.shop-logo.data-v-24e9d00e{
+	width:100rpx;
+	height:100rpx;
+}
+.score.data-v-24e9d00e{
+	height:40rpx;
+	line-height: 40rpx;
+	margin:6rpx 0;
+}
+.score .acitve.data-v-24e9d00e{
+	color:#f13e3a;
+}
+.score-item.data-v-24e9d00e{
+	color:#5ea732;
+}
+.score .acitve-isBetter.data-v-24e9d00e{
+	color:#fff;
+	background-color: #f13e3a;
+}
+.score-isBetter.data-v-24e9d00e{
+	padding: 4rpx;
+	color:#fff;
+	background-color:#5ea732;
+}
+.jindian.data-v-24e9d00e{
+	height:80rpx;
+}
+.jindian-text.data-v-24e9d00e{
+	padding:20rpx 30rpx;
+	border-radius: 8rpx;
+	background-color:#eee;
+}
+

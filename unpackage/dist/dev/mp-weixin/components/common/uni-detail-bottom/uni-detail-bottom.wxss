@@ -1,0 +1,23 @@
+
+.bottom-flex.data-v-0338741c{
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+}
+.bottom-icon.data-v-0338741c{
+	width:60rpx;
+	height:60rpx;
+}
+.addCart.data-v-0338741c{
+	height:150rpx;
+	line-height: 150rpx;
+	background-color:#ffe817;
+	color:#333;
+}
+.bottom-buy.data-v-0338741c{
+	height:150rpx;
+	line-height: 150rpx;
+	background-color:#FF5777;
+	color:#fff;
+}
+

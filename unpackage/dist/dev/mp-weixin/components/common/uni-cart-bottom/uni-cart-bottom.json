@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "uni-cart-checked": "/components/common/uni-cart-checked/uni-cart-checked"
+  },
+  "component": true
+}

@@ -1,0 +1,16 @@
+
+.tab-control1.data-v-57280228{
+	position: fixed;
+	top:0;
+	left:0;
+	right: 0;
+	z-index: 9;
+	background-color: #FFFFFF;
+}
+.home-back-top.data-v-57280228{
+	position: fixed;
+	bottom: 180rpx;
+	right:80rpx;
+	z-index: 2;
+}
+

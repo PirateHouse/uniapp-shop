@@ -1,0 +1,21 @@
+
+.rate-title.data-v-5b5c4c46{
+	height:80rpx;
+	padding:0 20rpx;
+}
+.user-info.data-v-5b5c4c46{
+	padding:20rpx;
+}
+.uImage.data-v-5b5c4c46{
+	width:100rpx;
+	height:100rpx;
+	border-radius: 50%;
+	margin-right:10rpx;
+}
+.item-style.data-v-5b5c4c46{
+	margin:20rpx 0;
+}
+.item-text.data-v-5b5c4c46{
+	margin-right: 20rpx;
+}
+

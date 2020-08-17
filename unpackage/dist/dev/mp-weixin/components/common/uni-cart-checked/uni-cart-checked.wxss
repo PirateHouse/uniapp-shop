@@ -1,0 +1,13 @@
+
+.checked-image.data-v-a8271ab4{
+	width:40rpx;
+	height: 40rpx;
+	border:1rpx solid #ccc;
+	border-radius: 50%;
+	margin:0 20rpx;
+}
+.showImage.data-v-a8271ab4{
+	width:100%;
+	height:100%;
+}
+

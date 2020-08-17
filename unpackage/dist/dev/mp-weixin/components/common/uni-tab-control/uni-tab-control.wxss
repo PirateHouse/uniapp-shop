@@ -1,0 +1,20 @@
+
+.tab-control.data-v-7eb2f450{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	height:100rpx;
+	line-height: 100rpx;
+	text-align: center;
+}
+.tab-item.data-v-7eb2f450{
+	-webkit-box-flex:1;
+	-webkit-flex:1;
+	        flex:1;
+}
+.active.data-v-7eb2f450{
+	padding:10rpx;
+	border-bottom: 5rpx solid #ff5777;
+	color:#ff5777;
+}
+

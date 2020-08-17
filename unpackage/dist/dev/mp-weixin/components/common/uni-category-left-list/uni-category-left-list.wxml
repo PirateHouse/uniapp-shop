@@ -1,0 +1,1 @@
+<view class="data-v-8a0b9874"><block wx:for="{{leftList}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view data-event-opts="{{[['tap',[['changeLeftIndex',[index]]]]]}}" class="{{['left-title  data-v-8a0b9874',index===leftIndex?'active':'']}}" bindtap="__e">{{''+item.title+''}}</view></block></view>

@@ -1,0 +1,13 @@
+
+.bottom-info{
+	height:80rpx;
+	line-height: 80rpx;
+	padding:0 20rpx;
+}
+.bottom-image{
+	margin-top: 10rpx;
+	width: 40rpx;
+	height: 40rpx;
+	margin-right: 20rpx;
+}
+

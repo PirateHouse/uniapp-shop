@@ -1,0 +1,1 @@
+<view class="flex justify-around service data-v-41a1577c"><block wx:for="{{detailServices}}" wx:for-item="item" wx:for-index="__i0__" wx:key="name"><block wx:if="{{item.icon}}"><view class="data-v-41a1577c"><image class="service-image data-v-41a1577c" src="{{item.icon}}" mode></image><text class="data-v-41a1577c">{{item.name}}</text></view></block></block></view>

@@ -1,0 +1,18 @@
+
+.preferential.data-v-eb0fe3f4{
+	 background: #f8f8f8;
+	 font-size: 28rpx;
+	 text-align: center;
+}
+.my-preferential.data-v-eb0fe3f4{
+	width: 33%;
+	padding: 50rpx 0;
+	background: #fff;
+}
+.count.data-v-eb0fe3f4{
+	 color: #ff5f3e;
+	  font-size: 40rpx;
+	  font-weight: bold;
+	  line-height: 1.5;
+}
+

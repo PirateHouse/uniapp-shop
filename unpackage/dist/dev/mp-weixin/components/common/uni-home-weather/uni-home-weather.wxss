@@ -1,0 +1,14 @@
+
+.weather.data-v-1766ac26{
+	border-bottom: 20rpx solid #ddd;
+	padding-bottom: 20rpx;
+}
+.weather-item.data-v-1766ac26{
+	font-size:20rpx;
+}
+.item-image.data-v-1766ac26{
+	width:140rpx;
+	height:140rpx;
+	margin: 20rpx 0;
+}
+
